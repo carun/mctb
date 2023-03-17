@@ -1,3 +1,15 @@
-= README
-* All the credits, copyrights and attributions of this work, related translations, etc belongs to https://www.integrateddaniel.info/[Daniel Ingram]
+= Mastering the Core Teachings of the Buddha
+:doctype: book
+:encoding: utf-8
+:lang: en
+:toc: left
+:toclevels: 4
+:numbered:
+:showtitle:
+
+* All the credits, copyrights and attributions of this work, related
+translations, etc belong to https://www.integrateddaniel.info/[Daniel Ingram]
 * You can follow https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fwww.integrateddaniel.info%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5Edanielmingram&region=follow_link&screen_name=danielmingram[Daniel Ingram]
+
+= தமிழ்
+Navigate to *ta* folder and open *book.adoc*.
