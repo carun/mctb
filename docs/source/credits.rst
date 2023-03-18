@@ -1,5 +1,5 @@
-[credits]
-== Credits
+Credits
+=======
 First published in 2018 by
 
 Aeon Books Ltd
