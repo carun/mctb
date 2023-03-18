@@ -21,3 +21,7 @@ Organize your book chapter by chapter
 include::credits.adoc[]
 
 include::preface.adoc[]
+
+include::dedication.adoc[]
+
+include::foreword.adoc[]
