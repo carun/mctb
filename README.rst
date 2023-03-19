@@ -1,9 +1,9 @@
-Template for the Read the Docs tutorial
-=======================================
+This is a Work-in-progress of the Tamil translation of the book **Mastering the Core Teachings of the Buddha**
+by `Dr. Daniel M. Ingram <https://www.integrateddaniel.info/>`_.
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+`Read the original book in English <https://www.mctb.org/mctb2>`_
 
-Read the tutorial here:
+- All the credits, copyrights and attributions of this work, related translations, etc belong to `Dr. Daniel M. Ingram <https://www.integrateddaniel.info/>`_
+- Follow `Dr. Daniel Ingram on Twitter <https://twitter.com/danielmingram?ref_src=twsrc%5Etfw>`_
 
-https://docs.readthedocs.io/en/stable/tutorial/
+Read the Tamil version at `mctb.rtfd.io <https://mctb.rtfd.io>`_.
