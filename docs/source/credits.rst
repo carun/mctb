@@ -1,5 +1,6 @@
 Credits
 =======
+
 First published in 2018 by
 
 Aeon Books Ltd
@@ -10,7 +11,7 @@ Finchley Road
 
 London NW3 5EP
 
-Copyright © 2018 by Daniel M. Ingram
+Copyright (c) 2018 by Daniel M. Ingram
 
 The right of Daniel M. Ingram to be identified as the author of this work has
 been asserted in accordance with §§ 77 and 78 of the Copyright Design and
@@ -29,9 +30,9 @@ ISBN-13: 978-1-91159-710-0
 
 Typeset by Medlar Publishing Solutions Pvt Ltd, India
 
-https://www.aeonbooks.co.uk[www.aeonbooks.co.uk]
+`www.aeonbooks.co.uk <https://www.aeonbooks.co.uk>`_
 
 Printed in Great Britain
 
-Thanks to my sister http://www.largentcreative.com/[Nancy Largent] for web
-design and WordPress assistance with https://www.mctb.org[www.mctb.org].
+Thanks to my sister `Nancy Largent <http://www.largentcreative.com>`_ for web
+design and WordPress assistance with `www.mctb.org <https://www.mctb.org>`_.
