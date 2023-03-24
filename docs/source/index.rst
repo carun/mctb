@@ -32,3 +32,5 @@ Contents
    preface
    dedication
    foreword
+   part1-fundamentals
+   chapter-1
