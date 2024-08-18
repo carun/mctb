@@ -24,3 +24,4 @@ Contents
    foreword
    part1-fundamentals
    chapter-1
+   chapter-2
