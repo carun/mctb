@@ -25,3 +25,4 @@ Contents
    part1-fundamentals
    chapter-1
    chapter-2
+   chapter-3
