@@ -20,6 +20,7 @@ Contents
 .. toctree::
 
    credits
+   glossary
    preface
    dedication
    foreword
