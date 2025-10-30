@@ -105,10 +105,9 @@ IAST இல் என்ன சரிசெய்ய வேண்டும்?
 சொற்களை இங்கு வழங்கியுள்ளேன்.
 
 .. list-table:: தமிழ் சொற்களும் அவற்றின் ஆங்கில பொருள்களும்
-    :widths: 30 70
+    :widths: 80 120
     :header-rows: 1
     :stub-columns: 1
-    :width: 50%
     :class: glossary
 
     * - English
