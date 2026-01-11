@@ -28,7 +28,7 @@ intersphinx_disabled_domains = ["std"]
 templates_path = ["_templates"]
 
 # -- Options for HTML output
-html_theme = "press"
+html_theme = "shibuya"
 
 # -- Options for EPUB output
 epub_show_urls = "footnote"

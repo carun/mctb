@@ -1,4 +1,4 @@
 sphinx==8.0.2
 sphinx-autosummary-accessors
 sphinx-autodoc-typehints
-sphinx-press-theme
+shibuya
