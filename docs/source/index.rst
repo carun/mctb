@@ -54,3 +54,10 @@ Contents
    chapter-27
    chapter-28
    chapter-29
+   chapter-30
+   chapter-31
+   chapter-32
+   chapter-33
+   chapter-34
+   chapter-35
+   chapter-36
