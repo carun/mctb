@@ -4,5 +4,8 @@
 
 .. toctree::
 
+   chapter-37-0
    chapter-37-1
    chapter-37-2
+   chapter-37-3
+   chapter-37-4
