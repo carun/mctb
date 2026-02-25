@@ -26,3 +26,7 @@ Table of Contents
    foreword
    part1-fundamentals
    part2-light-shadows
+   part3-shamatha-jhanas
+   part4-insight
+   part5-awakening
+   part6-quest
