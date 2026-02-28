@@ -123,10 +123,10 @@ IAST இல் என்ன சரிசெய்ய வேண்டும்?
       - நுண்ணறிவு
     * - Enlightenment
       - ஞானத்தெளிவு/நிர்வாணம்
-    * - Suffering
-      - துக்கம்/துயரம்
+    * - Suffering/Dissatisfaction
+      - துக்கம்/துயரம்/துன்பம்
     * - Information
-      - உள்ளுருமம்/தகவல்
+      - உள்ளுருமம்/தகவல்/விஷயம்
     * - Knowledge
       - அறிவு
     * - Conscious perception
