@@ -2,3 +2,5 @@ sphinx==8.0.2
 sphinx-autosummary-accessors
 sphinx-autodoc-typehints
 shibuya
+sphinxcontrib-jquery
+sphinx-new-tab-link

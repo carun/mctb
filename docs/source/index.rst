@@ -30,3 +30,5 @@ Table of Contents
    part4-insight
    part5-awakening
    part6-quest
+   final-wishes
+   last-words-of-wisdom
